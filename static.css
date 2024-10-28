@@ -1,0 +1,25 @@
+@media all {
+
+body {
+font-family: 'Paprika', arial, helvetica, serif;
+font-size: 100%;
+background:#fff;
+color:#000;
+line-height:1.4em;
+margin-top:12em;
+}
+
+#container {
+margin:10em;
+}
+
+h1 {
+font-size:2em;
+line-height:1.5em;
+}
+
+p {
+font-size:0.9em;
+}
+
+}
